@@ -1,7 +1,7 @@
-name = "cloudvpn-z60y4rpv7x"
+name = "cloudvpn-tzk9uckgvn"
 main = "worker.js"
 compatibility_date = "2024-09-23"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "76301cf234294b3bb5d695c754c3a7ef"
+id = "ed29bcaf9fcb4ceda188b05d86f2e80e"
